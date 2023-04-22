@@ -60,6 +60,8 @@ I am looking for a job that can help me grow and learn in my management and codi
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-ff69b4?style=flat-square&logo=BeautifulSoup&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-277182?style=flat-square&logo=Requests&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 
 
