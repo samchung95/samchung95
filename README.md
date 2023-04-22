@@ -13,7 +13,7 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=samchung95&theme=onedark&column=7" alt="Samuel's Throphy stats">
+      <img src="https://github-profile-trophy.vercel.app/?username=samchung95&theme=onedark&column=4" alt="Samuel's Throphy stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical" alt="Top Langs">
