@@ -5,6 +5,8 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samchung95&theme=dark)
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samchung95&show_icons=true&theme=radical)
 ![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samchung95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical)](https://github.com/samchung95/github-readme-stats)
+
 
 ## 🔭 Current Projects:
 
