@@ -37,10 +37,33 @@ I am looking for a job that can help me grow and learn in my management and codi
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-196F3D?style=flat-square&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-ff69b4?style=flat-square&logo=BeautifulSoup&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-277182?style=flat-square&logo=Requests&logoColor=white)
+
+
+
+
 
 _Include more technologies and tools you're familiar with._
 
