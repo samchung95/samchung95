@@ -13,7 +13,7 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samchung95&theme=radical" alt="Samuel's wakatime stats">
+      <img src="https://wakatime.com/badge/user/67966a93-9da3-48dc-a4c2-baab47f728ff.svg" alt="Samuel's wakatime stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical" alt="Top Langs">
