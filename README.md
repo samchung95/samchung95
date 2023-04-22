@@ -42,15 +42,14 @@ _Include more technologies and tools you're familiar with._
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/samuel-chung-339688154/)
+- [Email](mailto:samuelchung95@gmail.com)
 
 ## ⚡ Fun Facts
 
-- I love playing the guitar in my free time.
+- I love coding passion projects in my free time.
 - I'm a huge fan of sci-fi movies and TV shows.
-- I enjoy outdoor activities like hiking and cycling.
+- I enjoy outdoor activities like hiking.
 
 <!--
 **samchung95/samchung95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
