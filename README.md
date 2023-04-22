@@ -2,10 +2,25 @@
 
 I'm Samuel, an undergraduate at Singapore Management University pursuing a Bachelor's degree in Information Systems! I am a passionate software developer with 4 years of experience in the field. I am intrigued by AI, machine learning, and developing automation applications!
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=samchung95&theme=dark)
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samchung95&show_icons=true&theme=radical)
-![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samchung95)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical)](https://github.com/samchung95/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=samchung95&theme=dark" alt="GitHub Streak">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=samchung95&show_icons=true&theme=radical" alt="Samuel's GitHub stats">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samchung95" alt="Samuel's wakatime stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical" alt="Top Langs">
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🔭 Current Projects:
