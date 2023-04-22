@@ -13,7 +13,7 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
   </tr>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=samchung95&bg_color=1A1B27&color=38BCD1&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Samuel's wakatime stats">
+      <img src="https://github-profile-trophy.vercel.app/?username=samchung95&theme=onedark&column=7" alt="Samuel's Throphy stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchung95&layout=compact&theme=radical" alt="Top Langs">
