@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Samuel, an undergraduate at Singapore Management University pursuing a Bachelor's degree in Information Systems! I am a passionate software developer with 4 years of experience in the field. I am intrigued by AI, machine learning, and developing automation applications!
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samchung95)](https://git.io/streak-stats)
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samchung95&show_icons=true&theme=radical)
 
 ## 🔭 Current Projects:
