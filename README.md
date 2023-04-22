@@ -80,10 +80,6 @@ I am looking for a job that can help me grow and learn in my management and codi
 
 
 
-
-
-_Include more technologies and tools you're familiar with._
-
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-chung-339688154/)
