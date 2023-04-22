@@ -2,6 +2,8 @@
 
 I'm Samuel, an undergraduate in Singapore Management University taking bachelors in Information Systems! I am a software developer with 4 years of development experience. Learning and training AI models always intrigue me and I'm working on apps that help with automation!
 
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samchung95)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🔭 I’m currently working on:
 
 1. Documenting past projects
