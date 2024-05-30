@@ -8,7 +8,7 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
       <img src="https://streak-stats.demolab.com/?user=samchung95&theme=dark" alt="GitHub Streak">
     </td>
     <td>
-      <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=samchung95&show_icons=true&theme=radical" alt="Samuel's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=samchung95&show_icons=true&theme=radical" alt="Samuel's GitHub stats">
     </td>
   </tr>
   <tr>
