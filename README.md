@@ -27,17 +27,11 @@ I'm Samuel, an undergraduate at Singapore Management University pursuing a Bache
 
 Here's a list of projects I'm currently working on:
 
-1. Documenting past projects
-2. Facial Recognition Attendance Taker
-3. SMU Esports Website
-4. Personal Website
+1. Crew-as-Code (A CrewAI compatible yaml-to-crew package for LLM Agents)
+2. CodeTutorAI (Code practice ge
+3. WorksheetParser
 
 _These are the projects I'm working on at the moment! Since there are many undocumented projects from the past, it may take some time before I complete them and move on to other projects._
-
-## 🌱 I’m currently learning
-
-- **Docker**: Learning to create containerized applications deployable on a single operating system.
-- **K-modes**: Learning and developing a K-modes model to predict the likelihood of answering questions correctly.
 
 ## 👨‍💻 I’m looking to work as 
 
